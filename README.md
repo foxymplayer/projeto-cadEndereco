@@ -1,8 +1,8 @@
 # 📂indice
 
-[Face do site]()
-[]()
-[]()
+[Face do site](#face-do-site)
+[oque foi feito](#oque-foi-feito)
+[🔗links usados](#links-usados)
 
 ## Face do site
 ![img](img/Captura%20de%20tela%202023-09-20%20123906.png)
