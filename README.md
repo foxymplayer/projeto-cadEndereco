@@ -2,7 +2,7 @@
 
 [Face do site](#face-do-site) <br>
 [oque foi feito](#oque-foi-feito) <br>
-[🔗Fontes usadas](#links-usados) <br>
+[🔗Fontes usadas](#fontes-usadas) <br>
 
 ## Face do site
 ![img](img/Captura%20de%20tela%202023-09-20%20123906.png)
@@ -26,8 +26,13 @@
 [Link](https://getbootstrap.com/docs/5.0/forms/layout/)
 
 <img src="img/java.png" width="45px"><br>
-javascript
+* javascript
 
 <img src="img/html.png" width="45px"><br>
-Html
+* Html
 
+<img src="img/vscode.jpg" width="45px"><br>
+* VScode
+
+<img src="img/chrome.jpg" width="45px"><br>
+*Chrome
