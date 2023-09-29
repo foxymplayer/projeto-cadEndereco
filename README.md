@@ -18,7 +18,7 @@
 
 ![img](img/imgcell.png)
 
-26/09: criei um arquivo javascript e add alguns codigos e add a const eNumero e a limparFormulario
+26/09: criei um arquivo javascript e add alguns codigos e add a const eNumero e a limparFormulario.
 
 ## 🔗Fontes usadas
 
