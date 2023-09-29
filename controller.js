@@ -20,3 +20,13 @@ const preencherFormulario = (endereco) =>{
     document.getElementById('bairro').value = endereco.uf;
 
 }
+
+/*
+função para consumo de API ultilizando a função do tipo assincrona
+*/
+
+const pesquisarcep = async() =>{
+    imparFormulario();
+    const url = `http://viacep.com.br/ws/${cep.value}/json/`;
+}
+
