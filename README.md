@@ -23,6 +23,7 @@
 ## 🔗Fontes usadas
 
 ![Boostrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) <br>
+* Boostrap <br>
 [Link](https://getbootstrap.com/docs/5.0/forms/layout/)
 
 <img src="img/java.png" width="45px"><br>
@@ -35,4 +36,4 @@
 * VScode
 
 <img src="img/chrome.jpg" width="45px"><br>
-*Chrome
+* Chrome
