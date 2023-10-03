@@ -20,20 +20,31 @@
 
 26/09: criei um arquivo javascript e add alguns codigos e add a const eNumero e a limparFormulario.
 
-## 🔗Fontes usadas
+03/10: Adicionei ao Javascript alguns comandos ordenados dentro de algumas anotações, entre elas:
 
-![Boostrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) <br>
+- limpar formulario
+- verifica se o cep é valido
+- preenche campos do formulario
+- função para consumo de API ultilizando a função do tipo assincrona
+- add um comentario DOM, no input CEP
+
+e add isso com os comandos o site chegou nesse resultado:
+
+![gif](gif/Gravando-2023-10-03-074219.gif)
+
+## 🔗Fontes usadas
 * Boostrap <br>
+![Boostrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) <br>
 [Link](https://getbootstrap.com/docs/5.0/forms/layout/)
 
+* javascript <br>
 <img src="img/java.png" width="45px"><br>
-* javascript
 
+* Html <br>
 <img src="img/html.png" width="45px"><br>
-* Html
 
+* VScode <br>
 <img src="img/vscode.jpg" width="45px"><br>
-* VScode
 
+* Chrome <br>
 <img src="img/chrome.jpg" width="45px"><br>
-* Chrome
