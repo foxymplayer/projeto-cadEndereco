@@ -7,6 +7,22 @@
 ## Face do site
 ![img](img/Captura%20de%20tela%202023-09-20%20123906.png)
 
+## funcionalidades
+
+### barra de texto do CEP possui 3 funcionalidades
+
+1°-Se digitar o CEP ele altomaticamente reescreve os outros campos
+
+<img src="gif/reescreve.gif" width="85%"><br>
+
+2°Se voce selecionar o campo de texto do CEP e desseleciona sem escrever nada, ele da como se o CEP estiesse errado
+
+![gif](gif/erro.gif)
+
+3°-Se você digitar o CEP errado ele da como incorreto:
+
+![gif](gif/incorreto.gif)
+
 ## oque foi feito
 
 19/09: Criei um arquivo html, ultilizei link do boosttrap para tornar meu cite usavel até para aparelhos telefones e peguei a cara do site de um site do boostrap.
