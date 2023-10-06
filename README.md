@@ -1,6 +1,7 @@
 # 📂indice
 
 [Face do site](#face-do-site) <br>
+[Funcionalidades](#funcionalidades)<br>
 [oque foi feito](#oque-foi-feito) <br>
 [🔗Fontes usadas](#fontes-usadas) <br>
 
@@ -38,11 +39,27 @@
 
 03/10: Adicionei ao Javascript alguns comandos ordenados dentro de algumas anotações, entre elas:
 
-- limpar formulario
-- verifica se o cep é valido
+- limpar formulario 
+
+tambem add a const limparFormulario
+
+add a const preencherFormulario
+
+ultilizei o test
+O método test() executa uma busca por uma correspondência entre uma expressão regular e uma string. Retorna true ou false.
 - preenche campos do formulario
+
+- verifica se o cep é valido
+
 - função para consumo de API ultilizando a função do tipo assincrona
+
+Usando Fetch
+A API Fetch fornece uma interface JavaScript para acessar e manipular partes do pipeline HTTP, tais como os pedidos e respostas. Ela também fornece o método global fetch() (en-US) que fornece uma maneira fácil e lógica para buscar recursos de forma assíncrona através da rede.
+
 - add um comentario DOM, no input CEP
+
+ultilizei o focusout. 
+ focusout é acionado quando um elemento perde o foco, após o blurevento. Os dois eventos diferem porque focusoutbolhas, enquanto blurnão.
 
 e add isso com os comandos o site chegou nesse resultado:
 
